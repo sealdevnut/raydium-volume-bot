@@ -6,7 +6,7 @@ This bot is designed to automate the distribution of SOL to multiple wallets and
 
    If you need help or upgraded version, plz contact here: 
    
-   [Telegram](https://t.me/sealdevnut)
+   [Telegram](https://t.me/sealdev)
 
    
 ## 🔧 Last Version's Demerits
@@ -55,7 +55,7 @@ TOKEN_MINT=7MFX5LySd9CdaD8irWnLLKanpDw6gxbBuhEg3qCHWc4C   # Mint address of toke
 # 👤 Author
 
 
-### Telegram: [@sealdevnut](https://t.me/sealdevnut)   
+### Telegram: [@sealdev](https://t.me/sealdev)   
 
 
 You can always find me here, for help, or for other projects.
