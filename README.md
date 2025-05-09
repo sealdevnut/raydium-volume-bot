@@ -6,7 +6,7 @@ This bot is designed to automate the distribution of SOL to multiple wallets and
 
    If you need help or upgraded version, plz contact here: 
    
-   [Telegram](https://t.me/sealdev)
+[Twitter](https://x.com/0xmooncity)
 
    
 ## 🔧 Last Version's Demerits
